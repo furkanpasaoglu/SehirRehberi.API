@@ -7,6 +7,7 @@
 
 ![database](https://github.com/furkanpasaoglu/githubImages/blob/main/Database%20and%20Tables.png)
 ###  Veritabanı Oluşturma 
+- [Setting](https://github.com/furkanpasaoglu/SehirRehberi.API/blob/master/appsettings.json) *ConnectionStrings ve CloudinarySettings Burdan Ayarlayınız.*
 - [SqlQuery.sql](https://github.com/furkanpasaoglu/SehirRehberi.API/blob/master/SQLQuery.sql) *(Tablonuzu linkde gördüğünüz şekilde oluşturun)*
 
 ![prerequisites](https://raw.githubusercontent.com/furkanpasaoglu/githubImages/main/Prerequisites.png) 
