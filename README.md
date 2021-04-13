@@ -20,3 +20,6 @@ Microsoft.AspNetCore.Authentication.JwtBearer v3.1.14
 Microsoft.AspNetCore.Mvc.NewtonsoftJson v3.1.14
 Microsoft.EntityFrameworkCore.SqlServer v3.1.14
 ```
+
+## :pencil2:Authors
+* **Furkan Paşaoğlu** - [furkanpasaoglu](https://github.com/furkanpasaoglu)
