@@ -1,16 +1,18 @@
 # SehirRehberi.API
-<p align="center">
-<img src="https://raw.githubusercontent.com/furkanpasaoglu/githubImages/main/sehirrehberi.gif">
-</p>
+
+![sehirrehberi](https://user-images.githubusercontent.com/16624085/117002470-441de000-acec-11eb-82d5-026a40e2b227.gif)
+
 
 <hr>
 
-![database](https://github.com/furkanpasaoglu/githubImages/blob/main/Database%20and%20Tables.png)
+![databaseandtables](https://user-images.githubusercontent.com/16624085/117002547-58fa7380-acec-11eb-9d13-9b8ac5f4532b.png)
+
 ###  Veritabanı Oluşturma 
 -  *ConnectionStrings ve CloudinarySettings [Burdan](https://github.com/furkanpasaoglu/SehirRehberi.API/blob/master/appsettings.json) Ayarlayınız.*
 - [SqlQuery.sql](https://github.com/furkanpasaoglu/SehirRehberi.API/blob/master/SQLQuery.sql) *(Tablonuzu linkde gördüğünüz şekilde oluşturun)*
 
-![prerequisites](https://raw.githubusercontent.com/furkanpasaoglu/githubImages/main/Prerequisites.png) 
+![Prerequisites](https://user-images.githubusercontent.com/16624085/117002602-6fa0ca80-acec-11eb-8d9e-7a52a6035403.png)
+
 ### Nuget
 ```
 AutoMapper v10.1.1
